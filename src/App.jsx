@@ -30,3 +30,6 @@ export default function App() {
     </>
   )
 }
+
+
+// Main application routing configuration using React Router
