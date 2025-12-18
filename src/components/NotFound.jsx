@@ -1,3 +1,6 @@
+// 404 page shown when route does not exist
+
+
 import { useLocation, Link } from "react-router-dom"
 import React from "react"
 export default function NotFound() {
