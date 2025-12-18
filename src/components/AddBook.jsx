@@ -1,3 +1,6 @@
+// Form component to add a new book into Redux store
+
+
 import { useDispatch } from "react-redux"
 import { addBook } from "../utils/bookSlice";
 import React from "react"
