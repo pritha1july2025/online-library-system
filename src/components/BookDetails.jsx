@@ -1,3 +1,5 @@
+// Displays detailed information of a selected book
+
 import { useParams, Link } from "react-router-dom"
 import { useSelector } from "react-redux"
 import React from "react"
