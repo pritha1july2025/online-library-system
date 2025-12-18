@@ -1,3 +1,5 @@
+// Reusable book card component for displaying book information
+
 import React from "react"
 import { Link } from "react-router-dom"
 
