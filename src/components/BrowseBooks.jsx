@@ -1,3 +1,5 @@
+// Browse books by category with search functionality
+
 import React from "react"
 import { useParams } from "react-router-dom"
 import { useSelector } from "react-redux"
